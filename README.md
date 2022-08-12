@@ -5,6 +5,8 @@ This repository contains a template Flutter project, with a JSON dump containing
 
 Loading a lot of data at once can be performance expensive. Consider tackling this issue the way you best see fit.
 
+*Disclaimer: The application should be mobile focused.*
+
 ## Technologies and how to use
 At Receipthero we heavily utilize the following technologies:\
 [Riverpod](https://pub.dev/packages/flutter_riverpod) for state management\
