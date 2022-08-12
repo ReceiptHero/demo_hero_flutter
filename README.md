@@ -1,7 +1,7 @@
 # Demo Hero Flutter
 
 ## Description
-This repository contains a template Flutter project, with a JSON dump containing 800 receipts included. Implement an application to display most important data from each receipt (price, store name, timestamp, ...) to the user. Also implement a summary of all the loaded receipts.
+This repository contains a template Flutter project, with a JSON dump containing 800 receipts included (assets/receipts.json). Implement an application to display most important data from each receipt (price, store name, timestamp, ...) to the user. Also implement a summary of all the loaded receipts.
 
 Loading a lot of data at once can be performance expensive. Consider tackling this issue the way you best see fit.
 
