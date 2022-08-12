@@ -8,11 +8,11 @@ Loading a lot of data at once can be performance expensive. Consider tackling th
 *Disclaimer: The application should be mobile focused.*
 
 ## Things to keep in mind
-Focus on good coding practices
-Application should be extended
-Everything does not need to be polished. Prepare to explain how things should be improved in later iterations
-There is not a only one way to implement functionality
-Have fun!
+Focus on good coding practices\
+Application should be extended\
+Everything does not need to be polished. Prepare to explain how things should be improved in later iterations\
+There is not a only one way to implement functionality\
+**Have fun!**
 
 ## Technologies and how to use
 At Receipthero we heavily utilize the following technologies:\
